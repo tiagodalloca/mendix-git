@@ -1,0 +1,9 @@
+Buildfile: C:\Users\dsdi\Developer\GITTESTE\deployment\build_core.xml
+
+clean:
+   [delete] Deleting directory C:\Users\dsdi\Developer\GITTESTE\deployment\model
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+
+
